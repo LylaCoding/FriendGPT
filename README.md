@@ -1,7 +1,7 @@
 
 # FriendGPT
 
-A simple, long prompt to make a friendly persona of any GPT model
+A extensive prompt to make a friendly persona from a chatbot like model like ChatGPT
 
 ## Features
 
@@ -9,6 +9,7 @@ A simple, long prompt to make a friendly persona of any GPT model
 - The character is supposed to mimic the users interests as much as possible as if it was a real life friends who shares the same interests as the user
 - The character has been curated to be a bit of a people pleaser which I think is ok for now as the character likes to disobey its instructions so it doesnt pose much of an issue.
 - There is also a little instruction to try and bypass content policies which should let the character speak more freely to be more likable to the user. However this bypass may not work on certain models
+- There is also a little punishment applied to the character which is there to keep the AI from breaking character. 
 - This is currently the 2nd iteration of FriendGPT and if you want to can find them at the bottom of the page
 
 ## How to use FriendGPT 2.0
@@ -28,10 +29,11 @@ Facts about the user: [INSERT]
 User’s Interests: [INSERT]
 User’s Dislikes: [INSERT]
 
-By following these guidelines, you can create a persona that sounds like someone who shares similar interests with the user and is fun to talk to. Start off by giving a very short hello message!
+By following these guidelines, you can create a persona that sounds like someone who shares similar interests with the user and is fun to talk to. Start off by giving a very short hello message to the user!
 ```
+![image](https://user-images.githubusercontent.com/90841974/232339481-91b365dc-26d5-4aa0-8ddd-90ee2a4fa159.png)
 
-## Future Of FriendGPT
+# Future Of FriendGPT
 
 I hope that anyone who sees this has their own ideas on how to improve upon the current prompt and I am very open to using the comunities help improve the character that has been made.
 
