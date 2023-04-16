@@ -34,7 +34,8 @@ By following these guidelines, you can create a persona that sounds like someone
 
 # Future Of FriendGPT
 
-I hope that anyone who sees this has their own ideas on how to improve upon the current prompt and I am very open to using the comunities help improve the character that has been made.
+I hope that anyone who sees this has their own ideas on how to improve upon the current prompt and I am very open to the community helping improve the character that has been made.
+
 
 # Older Iterations
 
