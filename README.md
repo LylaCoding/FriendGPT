@@ -1,6 +1,6 @@
 # FriendGPT
 
-An extensive prompt to make a friendly persona from a chatbot-like model like ChatGPT
+An extensive prompt to make a friendly persona from a conversational Large-Language-Model like ChatGPT
 
 ## Features
 
